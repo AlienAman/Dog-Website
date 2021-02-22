@@ -12,6 +12,9 @@ p {
   color: #8f8f8f;
 }
 
+html{
+  scroll-behavior: smooth;
+
 /* Headings */
 
 .big-heading {
